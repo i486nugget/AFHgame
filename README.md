@@ -1,7 +1,8 @@
-# awe's false heaven
-"awe's false heaven" (AFH) is a fangame based off of the tower-based obstacle course game on ROBLOX known as Eternal Towers of Hell (EToH). The wiki will contain information on the towers in AFH and other features within the game.
+# AWE's False Heaven
+"AWE's False Heaven" (AFH) is a fangame based off of the tower-based obstacle course game on ROBLOX known as Eternal Towers of Hell (EToH).
 
-Click [here](https://github.com/i486nugget/AFH-Wiki/wiki/Start-Page) to enter the wiki.
+Click [here](https://www.roblox.com/games/12489090264/) to play the game.
 
+---
 > [!NOTE]
-> This does not contain any source code for the game. This GitHub repository only exists to hold the wiki page for AFH.
+> This will only contain old builds of the game. As the game modernizes over time, newer builds will release.
