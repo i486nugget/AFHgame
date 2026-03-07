@@ -5,5 +5,9 @@
 - Some songs are credited to me in-game, [here's](https://github.com/i486nugget/song-repo) a repository with all of my songs.
 
 ---
+
+Click here to see the [ROADMAP](https://github.com/users/i486nugget/projects/2).
+
+---
 > [!NOTE]
 > This will only contain old builds of the game. As the game modernizes over time, newer builds will release.
